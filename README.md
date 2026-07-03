@@ -27,7 +27,7 @@ My GitHub serves as a record of what I’m learning and the skills I'm growing e
 
 ### 🔹 **Cloud & DevOps Portfolio**
 Hands-on projects, tools, scripts, and evidence of progress.  
-👉 *https://github.com/Vivian-04/cloud-devops-portfolio
+👉 *https://github.com/Vivian-04/vivian-devops-projects
 
 
 
@@ -48,7 +48,7 @@ Hands-on projects, tools, scripts, and evidence of progress.
 ---
 
 ## 🎯 Current Goal
-To build strong foundational skills in Cloud and DevOps, develop real-world projects, and become job-ready for opportunities in cloud engineering, DevOps, and infrastructure roles (including NYSC placements).
+To build strong foundational skills in Cloud and DevOps, develop real-world projects, and become job-ready for opportunities in cloud engineering, DevOps, and infrastructure roles.
 
 ---
 
