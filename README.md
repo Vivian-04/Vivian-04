@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vivian 👋</h1>
+<h1 align="center">Hi, I'm Vivian!</h1>
 <h3 align="center">Cloud & DevOps Engineer in Training | Passionate about Cloud, Infrastructure & Automation</h3>
 
 ---
@@ -7,19 +7,73 @@
 I'm Vivian, an Electrical & Information Engineering student with a strong passion for **Cloud Computing**, **DevOps**, **Linux**, **Networking**, and **Infrastructure Automation**.
 
 I am actively building hands-on skills, creating real projects, documenting my progress, and expanding my knowledge using free and high-quality learning resources.  
+I'm learning DevOps by building and deploying real systems. No tutorials. No shortcuts. Every project is live and production-ready.
 My GitHub serves as a record of what I’m learning and the skills I'm growing every day.
 
 ---
 
-## 🧠 What I'm Focused On
-- **Git & GitHub**
-- ☁️ **AWS Cloud** (IAM, EC2, S3, VPC, Monitoring)
-- 🐧 **Linux System Administration**
-- 🐳 **Docker & Containerization**
-- ⚙️ **CI/CD Pipelines** (GitHub Actions)
-- 📦 **Infrastructure as Code** (Terraform)
-- 🌐 **Networking Fundamentals**
-- 🔐 **Cloud Security Basics**
+
+## 🔧 Technical Skills (Proven)
+
+#### Infrastructure & Linux
+#### Web Servers & Networking
+#### Containerization & Orchestration
+#### CI/CD & Automation
+#### Application Deployment
+#### Security & Hardening
+#### Terraform (Infrastructure as Code)
+#### AWS IAM, S3, VPC (cloud platform specifics)
+
+### Skills In Progress
+- 🔄 Kubernetes (container orchestration at scale)
+- 🔄 Cost optimization (AWS/cloud cost management)
+- 🔄 Advanced monitoring (Prometheus, Grafana)
+
+---
+
+## 📚 Open Source Contributions
+
+**[Drips Projects]**
+- Multiple merged pull requests
+- Bug fixes and feature implementations
+- Active contributor to established open-source project
+
+---
+
+## 📖 Learning Approach
+
+I build to understand, not to follow tutorials:
+- ✅ Read source code carefully before making changes
+- ✅ Understand WHY each decision exists
+- ✅ Test locally before deploying
+- ✅ Document every fix and concept learned
+- ✅ Deploy to production (everything is live, not local)
+
+---
+
+## 🎯 Current Focus (July 2026)
+
+- Deepening understanding of microservices architecture
+- Preparing for Outreachy internship applications
+- Contributing to open-source DevOps projects
+- Planning cloud migration infrastructure
+- Building portfolio for graduate trainee roles
+
+---
+
+## 📞 Let's Connect
+
+- **GitHub:** [@Vivian-04](https://github.com/Vivian-04)
+- **LinkedIn:** https://www.linkedin.com/in/vivian-nduka-080885252/  
+- **Email:** ifechukwudenduka@gmail.com
+- **Open to:** DevOps roles, infrastructure projects, mentorship
+
+---
+
+## 🎓 Background
+
+- **Education:** Electrical & Information Engineering (First Class)
+- **Focus:** Production-ready infrastructure, continuous learning, deep understanding
 
 ---
 
@@ -28,8 +82,6 @@ My GitHub serves as a record of what I’m learning and the skills I'm growing e
 ### 🔹 **Cloud & DevOps Portfolio**
 Hands-on projects, tools, scripts, and evidence of progress.  
 👉 *https://github.com/Vivian-04/vivian-devops-projects
-
-
 
 ---
 
@@ -44,25 +96,6 @@ Hands-on projects, tools, scripts, and evidence of progress.
   <img src="https://img.shields.io/badge/Terraform-111?logo=terraform&logoColor=623CE4" />
   <img src="https://img.shields.io/badge/Networking-111?logo=cisco&logoColor=white" />
 </p>
-
----
-
-## 🎯 Current Goal
-To build strong foundational skills in Cloud and DevOps, develop real-world projects, and become job-ready for opportunities in cloud engineering, DevOps, and infrastructure roles.
-
----
-
-## 📈 My Learning Progress
-I update my repositories with:  
-- Short notes  
-- Hands-on evidence  
-- Skills I’ve picked up along the way  
-
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/vivian-nduka-080885252/  
-- 🌐 GitHub: https://github.com/Vivian-04  
 
 ---
 
